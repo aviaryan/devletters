@@ -1,7 +1,9 @@
 baseURL = "https://devletters.com/"
 languageCode = "en-us"
 title = "Dev Letters"
+description = "Letters from a Developer"
 theme = "capsule"
+SectionPagesMenu = "main"
 
 [author]
   name = "Avi Aryan"
@@ -12,3 +14,7 @@ theme = "capsule"
 [social]
   twitter = "aviaryan123"
   facebook = "aviaryan123"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
