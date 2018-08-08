@@ -1,0 +1,30 @@
+<!-- Check the page if it uses any site-wide taxonomy terms. If so, then
+   - insert a line break betweek the .Summary and the taglist partial -->
+{{- $.Scratch.Set "has_taxa" false }}
+{{- range $name, $taxonomy := .Site.Taxonomies }}
+  {{- range $key, $value := $.Params }}
+    {{- if eq $key $name }}
+      {{- $.Scratch.Set "has_taxa" true }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- if $.Scratch.Get "has_taxa" }}
+<br>
+{{- end }}
+
+{{- range $name, $taxonomy := .Site.Taxonomies }}
+  {{- range $key, $value := $.Params }}
+  {{- if eq $key $name }}
+<div class="heading">{{ $name | humanize | title }}:</div>
+<div class="field is-grouped is-grouped-multiline">
+  {{- range $item := $value }}
+  <div class="control">
+    <a href="{{ "/" | relLangURL }}{{ (printf "%s/%s" $name $item) | urlize | lower }}">
+      <span class="tag">{{ $item | humanize | title }}</span>
+    </a>
+  </div>
+  {{- end }}
+</div>
+  {{- end }}
+  {{- end }}
+{{- end }}

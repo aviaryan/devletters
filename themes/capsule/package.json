@@ -1,0 +1,35 @@
+{
+  "name": "capsule",
+  "version": "0.2.0",
+  "description": "\"A CSS-only theme for Hugo using Bulma and Font-Awesome\"",
+  "dependencies": {},
+  "devDependencies": {
+    "bulma": "^0.7.1",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-print": "^5.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudorook/capsule.git"
+  },
+  "keywords": [
+    "bulma",
+    "css",
+    "hugo"
+  ],
+  "author": "sudorook",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/sudorook/capsule/issues"
+  },
+  "homepage": "https://github.com/sudorook/capsule#readme"
+}
