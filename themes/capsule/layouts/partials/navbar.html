@@ -23,7 +23,7 @@
 
     <div class="navbar-menu">
       <div class="navbar-end">
-      {{- $node := . }}
+      <!-- {{- $node := . }}
       {{- range .Site.Menus.main }}
       <a href="{{ .URL }}"
          class="navbar-item
@@ -31,6 +31,9 @@
                   is-active
                 {{- end }}">{{ .Name }}
       </a>
+      {{- end }} -->
+      {{- if .IsHome }}
+      <a href="/letters" class="navbar-item has-text-white">Read Past Letters →</a>
       {{- end }}
       </div>
     </div>
