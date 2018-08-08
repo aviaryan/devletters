@@ -3,8 +3,8 @@
 
     <p class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
     <p class="subtitle is-flex" style="justify-content:space-between">
-      <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-      <span>{{ .ReadingTime }} min.</span>
+      <span class="is-size-6 has-text-grey">{{ .Date.Format "Jan 2, 2006" }}</span>
+      <!-- <span>{{ .ReadingTime }} min.</span> -->
     </p>
 
     <p>{{ .Summary }}</p>
