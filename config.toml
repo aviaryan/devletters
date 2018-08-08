@@ -5,3 +5,10 @@ theme = "capsule"
 
 [author]
   name = "Avi Aryan"
+
+[params]
+  googleAnalytics = "UA-42460130-5"
+
+[social]
+  twitter = "aviaryan123"
+  facebook = "aviaryan123"
