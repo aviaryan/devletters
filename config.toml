@@ -2,3 +2,6 @@ baseURL = "https://devletters.com/"
 languageCode = "en-us"
 title = "Dev Letters"
 theme = "capsule"
+
+[author]
+  name = "Avi Aryan"

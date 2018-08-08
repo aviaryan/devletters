@@ -1,6 +1,9 @@
 ---
 title: "What Is Dev Letters"
 date: 2018-08-08T12:42:18+05:30
+# meta
+description: "Avi talks about the motive behing making Dev Letters and what it offers to its readers"
+image: "https://images.unsplash.com/photo-1489698773837-322dc80478ed?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9389cad71970e33823ee4df040d51ae2&auto=format&fit=crop&w=800&q=80"
 ---
 
 DevLetters is a new project of mine.
