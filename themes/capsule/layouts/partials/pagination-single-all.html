@@ -6,7 +6,7 @@
         <p class="control has-addons">
           {{- if .Prev }}
           <a class="button" href="{{ .Prev.Permalink }}">
-            <span class="icon is-small"><i class="fa fa-chevron-left"></i></span>
+            <span class="icon is-small">‹</span>
             <span class="is-hidden-touch is-hidden-desktop-only">
               {{ .Prev.Title | truncate 100 "..." }}
             </span>
@@ -23,7 +23,7 @@
           </a>
           {{- else }}
           <a class="button" href="#" disabled>
-            <span class="icon is-small"><i class="fa fa-chevron-left"></i></span>
+            <span class="icon is-small">‹</span>
             <span>Newest</span>
           </a>
           {{- end }}
@@ -49,12 +49,12 @@
               {{ .Next.Title | truncate 40 "..." }}
             </span>
             <!-- <span>&nbsp;| {{ title .Next.Section | pluralize }}</span> -->
-            <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+            <span class="icon is-small">›</span>
           </a>
           {{- else }}
           <a class="button" href="#" disabled>
             <span>Oldest</span>
-            <span class="icon is-small"><i class="fa fa-chevron-right"></i></span>
+            <span class="icon is-small">›</span>
           </a>
           {{- end }}
         </p>

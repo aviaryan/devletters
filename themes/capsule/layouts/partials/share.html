@@ -1,71 +1,79 @@
 <div class="container">
   <div class="is-flex">
-    <span>
+    <!-- <span>
       <a class="button">Share</a>
-    </span>
+    </span> -->
 
-    &nbsp;
+    <!-- &nbsp; -->
 
-    <span>
       <!-- Facebook -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
         <span class="icon"><i class="fa fa-facebook"></i></span>
-      </a>
+      </a> -->
+
+      <!-- <div id="fb-root"></div> -->
+      <div class="fb-share-button" data-href="{{ .Permalink }}" data-layout="button_count" data-size="large"
+        style="margin-right: 0.5rem"></div>
 
       <!-- Twitter -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}{{ with .Site.Social.twitter}}&via=@{{.}}{{ end }}">
         <span class="icon"><i class="fa fa-twitter"></i></span>
-      </a>
+      </a> -->
+
+      <a class="twitter-share-button"
+        href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}{{ with .Site.Social.twitter}}&via={{.}}{{ end }}" 
+        data-size="large">
+      Tweet</a>
 
       <!-- Hacker News -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://news.ycombinator.com/submitlink?u={{ .Permalink }}">
         <span class="icon"><i class="fa fa-hacker-news"></i></span>
-      </a>
+      </a> -->
 
       <!-- Reddit -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}">
         <span class="icon"><i class="fa fa-reddit"></i></span>
-      </a>
+      </a> -->
 
       <!-- Google+ -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://plus.google.com/share?url={{ .Permalink }}">
         <span class="icon"><i class="fa fa-google-plus"></i></span>
-      </a>
+      </a> -->
 
       <!-- Linkedin -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://www.linkedin.com/shareArticle?url={{ .Permalink }}&title={{ .Title }}">
         <span class="icon"><i class="fa fa-linkedin"></i></span>
-      </a>
+      </a> -->
 
       <!-- Tumblr -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://www.tumblr.com/widgets/share/tool?canonicalUrl={{ .Permalink }}&title={{ .Title }}&caption={{ with .Params.description }}{{.}}{{ end }}">
         <span class="icon"><i class="fa fa-tumblr"></i></span>
-      </a>
+      </a> -->
 
       <!-- Pinterest -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://pinterest.com/pin/create/bookmarklet/?media={{ with .Params.image }}{{.}}{{ else }}{{ if (fileExists (print "/static" .Site.Data.defaults.icons.logo)) }}{{ .Site.Data.defaults.icons.logo }}{{ end }}{{ end }}&url={{ .Permalink }}&description={{ .Title }}">
         <span class="icon"><i class="fa fa-pinterest"></i></span>
-      </a>
+      </a> -->
 
       <!-- Whatsapp -->
-      <a class="button"
+      <!-- <a class="button"
          href="whatsapp://send?text={{ .Permalink }}">
         <span class="icon"><i class="fa fa-whatsapp"></i></span>
-      </a>
+      </a> -->
 
       <!-- Skype -->
-      <a class="button"
+      <!-- <a class="button"
          href="https://web.skype.com/share?url={{ .Permalink }}">
         <span class="icon"><i class="fa fa-skype"></i></span>
-      </a>
+      </a> -->
 
       <!-- Viber -->
       <!-- <a class="button" -->
@@ -78,6 +86,5 @@
       <!--    href="https://www.blogger.com/blog-this.g?u={{ .Permalink }}&n={{ .Title }}&t={{ with .Params.description }}{{.}}{{ end }}"> -->
       <!--   <span class="icon"><i class="fa fa-blogger"></i></span> -->
       <!-- </a> -->
-    </span>
   </div>
 </div>
