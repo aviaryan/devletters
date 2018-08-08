@@ -1,7 +1,6 @@
 ---
-title: "What Is Devletters"
+title: "What Is Dev Letters"
 date: 2018-08-08T12:42:18+05:30
-draft: true
 ---
 
 DevLetters is a new project of mine.
