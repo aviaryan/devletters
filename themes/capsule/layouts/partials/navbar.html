@@ -11,11 +11,13 @@
       </a>
 
       <!-- Using a <label /> here -->
+       {{- if .IsHome }}
       <label class="button navbar-burger is-white" for="navbar-burger-state">
         <span></span>
         <span></span>
         <span></span>
       </label>
+      {{- end }}
     </div>
 
     <!-- This checkbox is hidden -->
