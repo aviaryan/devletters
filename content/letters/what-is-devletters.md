@@ -16,7 +16,7 @@ But then, I remembered that I have been programming for 5+ years and I have my f
 
 So I started this blog. However, there is a twist.
 
-This is a mailing-list first blog. Meaning, the post first gets sent to the mailing list and then to the blog.
+This is a mailing-list first blog. Meaning, the post (or letter) first gets sent to the mailing list and then to the blog.
 
 Why you ask?
 
@@ -41,7 +41,7 @@ This blog is more focused towards sharing experiences and stuff.
 
 I will invite other fellow developers to share their fundas too so the audience can have as much knowledge as possible.
 
-So that's the intro, see you in the emails.
+So that's the intro, see you in later issues.
 
 Best,<br>
 Avi

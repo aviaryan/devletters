@@ -9,12 +9,12 @@ SectionPagesMenu = "main"
 
 [params]
   googleAnalytics = "UA-42460130-5"
-  description = "Blog describing various aspects of life as a developer. Maintained by Avi Aryan."
+  description = "Mailing list about various aspects of life as a developer. Maintained by Avi Aryan."
 
 [social]
   twitter = "aviaryan123"
   facebook = "aviaryan123"
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+#[taxonomies]
+#  category = "categories"
+#  tag = "tags"
