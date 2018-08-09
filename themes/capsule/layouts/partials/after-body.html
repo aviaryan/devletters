@@ -1,0 +1,22 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function() {
+	const btn = $("#signup")
+	btn.click(function() {
+		const email = $("#email").val()
+		console.log("clicked", email)
+		$.ajax({
+			type: 'POST',
+			url: 'https://emailoctopus.com/lists/194ab55a-9a2a-11e8-a3c9-06b79b628af2/members/embedded/1.1/add',
+			data: {'embedded_form_subscription[field_0]': email},
+			success: function(dataString) {
+				console.log(dataString)
+				if (dataString['success']) {
+					document.location.href = 'thank-you'
+				}
+			}
+		})
+	})
+})
+</script>
