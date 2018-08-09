@@ -144,4 +144,7 @@
   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.favicon)) -}}
   <link rel="icon" href="{{ .Site.Data.defaults.icons.favicon }}"/>
   {{ end -}}
+
+  <!-- sw -->
+  <script src="/js/script.js"></script>
 </head>
