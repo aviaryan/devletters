@@ -1,6 +1,6 @@
 [icons]
   favicon = "/img/favicon.ico"
   appleicon = "/img/apple-touch-icon.png"
-  logo = "/img/image.png"
+  logo = "https://devletters.com/img/image.png"
   brand = "/img/brand.svg"
   banner = "/img/banner.svg"

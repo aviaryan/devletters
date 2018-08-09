@@ -36,9 +36,7 @@
   <meta itemprop="image"
         content="{{ with .Params.image }}{{ . -}}
                  {{ else -}}
-                   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.logo)) -}}
-                     {{ .Site.Data.defaults.icons.logo -}}
-                   {{ end -}}
+                   {{ .Site.Data.defaults.icons.logo -}}
                  {{ end }}"/>
 
   <!-- OpenGraph data -->
@@ -49,9 +47,7 @@
   <meta property="og:image"
         content="{{ with .Params.image }}{{ . -}}
                  {{ else -}}
-                   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.logo)) -}}
-                     {{ .Site.Data.defaults.icons.logo -}}
-                   {{ end -}}
+                   {{ .Site.Data.defaults.icons.logo -}}
                  {{ end }}"/>
   {{- if .IsPage }}
   <meta property="og:description"
@@ -108,9 +104,7 @@
   <meta name="twitter:image:src"
         content="{{ with .Params.image }}{{. -}}
                  {{ else -}}
-                   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.logo)) -}}
-                     {{ .Site.Data.defaults.icons.logo -}}
-                   {{ end -}}
+                   {{ .Site.Data.defaults.icons.logo -}}
                  {{ end }}"/>
 
   <!-- RSS -->
