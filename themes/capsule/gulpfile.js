@@ -62,7 +62,7 @@ const dest = {
 
 // Rebuild css and fonts
 gulp.task('default', function() {
-  gulp.start(['sass', 'fonts']);
+  gulp.start(['sass']);  // no fonts
 });
 
 // Compile css from sass files
