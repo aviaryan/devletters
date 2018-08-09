@@ -1,7 +1,6 @@
 baseURL = "https://devletters.com/"
 languageCode = "en-us"
 title = "Dev Letters"
-description = "Letters from a Developer"
 theme = "capsule"
 SectionPagesMenu = "main"
 
@@ -10,6 +9,7 @@ SectionPagesMenu = "main"
 
 [params]
   googleAnalytics = "UA-42460130-5"
+  description = "Blog describing various aspects of life as a developer. Maintained by Avi Aryan."
 
 [social]
   twitter = "aviaryan123"
