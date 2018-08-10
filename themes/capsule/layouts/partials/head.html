@@ -146,4 +146,9 @@
   {{ if (fileExists (print "/static" .Site.Data.defaults.icons.favicon)) -}}
   <link rel="icon" href="{{ .Site.Data.defaults.icons.favicon }}"/>
   {{ end -}}
+
+  <!-- rich text meta google -->
+  {{ if eq .Type "letters" -}}
+  {{ partial "rich-text-meta.html" . }}
+  {{ end -}}
 </head>
