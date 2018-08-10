@@ -1,9 +1,10 @@
 // https://developers.google.com/web/fundamentals/primers/service-workers/
 
-var CACHE_NAME = 'dev-letters-v2';
+var CACHE_NAME = 'dev-letters-v3';
 
 var urlsToCache = [
 	'/',
+	'/letters/',
 	'/css/capsule.min.css',
 	'/js/script.js'
 ];
