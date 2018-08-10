@@ -8,11 +8,11 @@ $(document).ready(function() {
 		console.log("clicked", email)
 		$.ajax({
 			type: 'POST',
-			url: 'https://emailoctopus.com/lists/194ab55a-9a2a-11e8-a3c9-06b79b628af2/members/embedded/1.1/add',
-			data: {'embedded_form_subscription[field_0]': email},
+			url: 'https://jarvis.aviaryan.com/subscribe',
+			data: {'email': email},
 			success: function(dataString) {
 				console.log(dataString)
-				if (dataString['success']) {
+				if (dataString['status']) {
 					document.location.href = '/thank-you'
 				}
 			}
