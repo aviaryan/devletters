@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="398px" viewBox="0 0 63 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>devLetters/logo/black/icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="devLetters/logo/black/icon" stroke="none" stroke-width="1" fill="white" fill-rule="evenodd">
+        <g id="Group-5-Copy" transform="translate(4.000000, 5.000000)">
+            <g id="Group-3">
+                <g id="Group-4" stroke="#000000" stroke-width="2">
+                    <rect id="Rectangle-2" x="1" y="1" width="53" height="37" rx="6"></rect>
+                    <polyline id="Path-26" points="1.68367347 3.26086957 27.7806122 11 53.877551 3.26086957"></polyline>
+                </g>
+                <path d="M21.6492546,20.7434783 L21.6492546,22.1434783 L17.0406522,24.2130435 L21.6492546,26.2978261 L21.6492546,27.7282609 L16,25.0652174 L16,23.4673913 L21.6492546,20.7434783 Z M29.0218385,17 L30.2706211,17 L24.9781615,31 L23.7293789,31 L29.0218385,17 Z M37.0485466,24.2130435 L32.3507454,22.1434783 L32.3507454,20.7434783 L38,23.4673913 L38,25.0652174 L32.3507454,27.7282609 L32.3507454,26.2978261 L37.0485466,24.2130435 Z" id="&lt;/&gt;" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -13,7 +13,7 @@
 			"type": "image/png"
 		}
 	],
-	"start_url": "./letters/",
+	"start_url": ".",
 	"display": "standalone",
 	"theme_color": "#46B38F",
 	"background_color": "#ffffff"
