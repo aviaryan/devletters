@@ -7,7 +7,7 @@ disqusShortname = "devletters"
 
 [author]
   name = "Avi Aryan"
-  image = "https://aviaryan.in/hosting/scary%20dark%20256.jpg"
+  image = "https://aviaryan.github.io/hosting/scary%20dark%20256.jpg"
 
 [params]
   googleAnalytics = "UA-42460130-5"
