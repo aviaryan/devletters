@@ -1,6 +1,6 @@
 // https://developers.google.com/web/fundamentals/primers/service-workers/
 
-var CACHE_NAME = 'dev-letters-v1';
+var CACHE_NAME = 'dev-letters-v2';
 
 var urlsToCache = [
 	'/',
@@ -32,8 +32,10 @@ function updateCache(eventRequest) {
 		caches.open(CACHE_NAME)
 			.then(function (cache) {
 				cache.put(eventRequest, responseToCache);
-			});
+			}).catch(console.error);
 		return response;
+	}).catch(err => {
+		return err
 	})
 }
 
@@ -44,7 +46,7 @@ self.addEventListener('fetch', function (event) {
 			.then(function (response) {
 				// Cache hit - return response
 				if (response) {
-					setTimeout(() => updateCache(event.request.clone()), 100);
+					setTimeout(() => updateCache(event.request), 20);
 					return response;
 				}
 
