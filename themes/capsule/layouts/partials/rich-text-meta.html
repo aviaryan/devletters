@@ -6,7 +6,8 @@
 	"headline": "{{ .Title }}",
 	"datePublished": "{{ .Date.Format "Jan 2, 2006" }}",
 	"dateModified": "{{ .Date.Format "Jan 2, 2006" }}",
-	"description": "{{ .Description }}",
+	"description": "{{ with .Description }}{{ . }}{{ else }}{{ .Content | plainify | truncate 200 "..." -}}{{ end }}",
+	"image": "{{ .Params.image }}",
 	"author": {
 		"@type": "Person",
 		"name": "{{ .Site.Author.name }}"

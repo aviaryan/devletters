@@ -4,7 +4,7 @@ date: 2018-08-11T08:00:00+05:30
 image: "https://images.unsplash.com/photo-1506719040632-7d586470c936?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e64b8bb53bd561e25aba0bb01deec288&auto=format&fit=crop&w=1170&q=80"
 ---
 
-Move Fast and Break Things - we have always heard of this term. Some startup people are like singing it every day, while others absolutely loathe it.
+Move Fast and Break Things - such a popular saying in the software industry. Some are so in favor of it that they sing it everyday while there are others that absolutely loathe it.
 
 I, for one, used to be not much of a strong believer in this. But then, through my own life experiences, I realized how this works.
 
