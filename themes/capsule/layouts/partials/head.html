@@ -40,6 +40,12 @@
                  {{ else -}}
                    {{ .Site.Data.defaults.icons.logo -}}
                  {{ end }}"/>
+  
+  <meta itemprop="author" content="{{ .Site.Author.name }}" />
+  <meta itemprop="datePublished" content="{{ .Date.Format "Jan 2, 2006" }}" />
+  <meta itemprop="headline" content="{{ .Title }}" />
+  <meta itemprop="publisher" content="{{ .Site.Title }}" />
+  <!-- more meta https://search.google.com/structured-data/testing-tool/u/0/ -->
 
   <!-- OpenGraph data -->
   <meta property="og:title" content="{{ .Title }}"/>

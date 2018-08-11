@@ -13,11 +13,11 @@
 		"name": "{{ .Site.Author.name }}"
 	},
 	"publisher": {
-		"@type": "Person",
-		"name": "{{ .Site.Author.name }}",
-		"image": {
+		"@type": "Organization",
+		"name": "{{ .Site.Title }}",
+		"logo": {
 			"@type": "ImageObject",
-			"url": "{{ .Site.Author.image }}",
+			"url": "{{ .Site.Data.defaults.icons.favicon | absURL }}",
 			"width": "256",
 			"height": "256"
 		}
@@ -27,3 +27,4 @@
 <!-- thanks https://blog.google/products/assistant/your-funny-interesting-smart-and-humble-best-friend-assistant/
 http://schema.org/BlogPosting
 -->
+<!-- publisher is org because google https://stackoverflow.com/questions/40565885/the-attribute-publisher-itemtype-has-an-invalid-value -->
