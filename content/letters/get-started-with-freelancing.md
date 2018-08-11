@@ -1,8 +1,8 @@
 ---
 title: "Freelancing - Worth the risks? And how to get started"
-date: 2018-08-12T08:30:00+05:30
+date: 2018-08-12T08:00:00+05:30
 description: "How to successfully make a full-time income freelancing via Upwork, Freelancer, Toptal or other sites"
-image: "https://images.unsplash.com/photo-1512446387219-99c19f8fe95f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=68d56705b92c9ff7b1c26ea7f62b3442&auto=format&fit=crop&w=1489&q=80"
+image: "https://images.unsplash.com/photo-1493235431945-90c060301e41?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0279978342b1a6b4f3e0e00a0784c2e3&auto=format&fit=crop&w=1050&q=80"
 ---
 
 I have been asked this many times. How do I get into freelance? 
@@ -24,9 +24,9 @@ So how does one get started?
 1. First, make some projects. Open source them on GitHub or make them live. 
 2. Then, with your portfolio, apply to freelance gigs on Upwork or Freelancer.
 
-These two steps are absolute absolutes. You can't skip them, or half-ass them. 
+These two steps are absolute absolutes. You can't skip or half-ass them. 
 
-You might have to work for cheap earlier on, but it's part of the process. You need to build you reputation before you can get good clients.
+You might have to work for cheap earlier on, but it's part of the process. You need to build your reputation before you can get good clients.
 
 Once you do the initial 4-5 freelance gigs, you will start getting good clients and that's when you will start to enjoy freelancing.
 
