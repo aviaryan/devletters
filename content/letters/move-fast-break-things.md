@@ -22,14 +22,14 @@ Instead, you should mold your product as you keep running into roadblocks. With 
 
 This applies to non-startup things like learning a programming language too.
 
-Rather than sitting and thinking about how to write some code correctly, you just write the code in the way you know ("move fast") and if you ever come into a problem while following that method ("break things"), you will realize what is the correct way to write it.
+Rather than sitting and thinking about how to write some code correctly, you just write the code in the way you know ("move fast") and if you ever come into a problem while following that method ("break things"), you will realize what is the more correct way to write it.
 
 Repeat this cycle many times and you are eventually a pro.
 
-I don't know of any other way that is more guaranteed to return results like this one. The only thing required here is persistence, really. If you think you have got it, this is for you.
+I don't know of any other way that is more guaranteed to return results like this one. The only thing required here is persistence, really. If you think you have it, this approach is for you.
 
 Otherwise, you go slowly.
 
-Moving fast, breaking things, and then stopping when things break won't work.
+Moving fast, breaking things, and then quitting when things break won't work.
 
 PS - Want to learn more? Get yourself a copy of [Rework](https://amzn.to/2MyZOoE) and read it in one sitting (just kidding, I did it though). It will surely change some of your views on entrepreneurship and by extension, life. 
