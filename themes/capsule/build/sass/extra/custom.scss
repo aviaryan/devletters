@@ -12,8 +12,7 @@
 	position: absolute;
 	height: 400px;
 	width: 100%;
-	opacity: 0.5;
-	// background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+	opacity: 0.87;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-image: url("http://via.placeholder.com/1280x720?text=Loading");
@@ -23,9 +22,20 @@
 	-o-background-size: cover;
 	background-size: cover;
 
-	-webkit-filter: blur(2px);
-    -moz-filter: blur(2px);
-    -ms-filter: blur(2px);
-    -o-filter: blur(2px);
-    filter: blur(2px);
+	// -webkit-filter: blur(2px);
+    // -moz-filter: blur(2px);
+    // -ms-filter: blur(2px);
+    // -o-filter: blur(2px);
+    // filter: blur(2px);
 }
+
+// .navbar:before {
+// 	-webkit-filter: blur(2px);
+//     -moz-filter: blur(2px);
+//     -ms-filter: blur(2px);
+//     -o-filter: blur(2px);
+// 	filter: blur(2px);
+// 	display: block;
+// 	height: 2rem;
+// 	width: 100%;
+// }
