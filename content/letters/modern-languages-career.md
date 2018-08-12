@@ -24,8 +24,8 @@ Maybe Golang is not that rare now but you get the idea.
 For example, Flutter is very new to the world of technology. If you can establish yourself as an expert in Flutter, like make a couple of good 
 Flutter apps, write some blog posts, etc, then you have a huge chance of securing your name in this vast developer world, thanks to Flutter.
 
-This works with libraries and toolkits too. For example, ML Kit recently introduced by Google and Amazon Alexa. 
-Do some work in that area, share your experiences and you are automatically an expert.
+This works with libraries and toolkits too. For example, the ML Kit recently introduced by Google and the ever-growing Amazon Alexa. 
+Do some work in either of these techs, share your experiences and you are automatically regarded as an expert.
 
 It's so obvious I don't know why most people are not doing it. Go find a new technology that you are interested in, and learn the shit out of it. 
 
