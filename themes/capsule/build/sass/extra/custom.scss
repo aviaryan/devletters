@@ -6,3 +6,20 @@
 	border-top-left-radius: 6px;
 	font-size: 0.9rem;
 }
+
+.overlay {
+	z-index: -2;
+	position: absolute;
+	height: 400px;
+	width: 100%;
+	opacity: 0.5;
+	// background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url("http://via.placeholder.com/1280x720?text=Loading");
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}

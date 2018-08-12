@@ -5,9 +5,11 @@
 
   <body style="min-height:100vh;display:flex;flex-direction:column">
 
+    <div style="background-image: url({{ .Params.image }})" class="overlay"></div>
+
     {{ partial "navbar.html" . }}
 
-    <section class="section" style="flex:1">
+    <section class="section" style="flex:1; margin-top: calc(400px - 3rem);">
 
       <!-- Content -->
       <div class="container">
