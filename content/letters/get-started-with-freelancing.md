@@ -2,7 +2,8 @@
 title: "Freelancing - Worth the risks? And how to get started"
 date: 2018-08-12T08:00:00+05:30
 description: "How to successfully make a full-time income freelancing via Upwork, Freelancer, Toptal or other sites"
-image: "https://images.unsplash.com/photo-1493235431945-90c060301e41?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0279978342b1a6b4f3e0e00a0784c2e3&auto=format&fit=crop&w=1050&q=80"
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/freelancing.jpeg"
+unsplash: "https://images.unsplash.com/photo-1493235431945-90c060301e41?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0279978342b1a6b4f3e0e00a0784c2e3&auto=format&fit=crop&w=1050&q=80"
 ---
 
 I have been asked this many times. How do I get into freelance? 

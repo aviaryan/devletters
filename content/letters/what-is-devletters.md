@@ -5,7 +5,8 @@ date: 2018-08-08T12:42:18+05:30
 # categories: [""]
 # meta
 description: "Avi talks about the motive behing making Dev Letters and what it offers to its readers"
-image: "https://images.unsplash.com/photo-1489698773837-322dc80478ed?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9389cad71970e33823ee4df040d51ae2&auto=format&fit=crop&w=800&q=80"
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/letter.jpeg"
+unsplash: "https://images.unsplash.com/photo-1489698773837-322dc80478ed?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9389cad71970e33823ee4df040d51ae2&auto=format&fit=crop&w=800&q=80"
 ---
 
 Dev Letters is a new project of mine.
