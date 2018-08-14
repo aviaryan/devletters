@@ -29,8 +29,8 @@
   {{ .Hugo.Generator }}
 
   <!-- Schema.org markup for Google+ -->
-  <meta itemprop="name" content="{{ .Title }}"/>
-  {{- if .IsPage }}
+  <!-- <meta itemprop="name" content="{{ .Title }}"/> -->
+  <!-- {{- if .IsPage }}
   <meta itemprop="description"
         content="{{ with .Description }}{{ . -}}
                  {{ else }}{{ .Content | safeHTML | truncate 200 "..." -}}
@@ -40,8 +40,8 @@
         content="{{ with .Description }}{{ . -}}
                  {{ else }}{{ .Site.Params.description -}}
                  {{ end }}"/>
-  {{- end }}
-  <meta itemprop="image"
+  {{- end }} -->
+  <!-- <meta itemprop="image"
         content="{{ with .Params.image }}{{ . -}}
                  {{ else -}}
                    {{ .Site.Data.defaults.icons.logo -}}
@@ -50,7 +50,7 @@
   <meta itemprop="author" content="{{ .Site.Author.name }}" />
   <meta itemprop="datePublished" content="{{ .Date.Format "Jan 2, 2006" }}" />
   <meta itemprop="headline" content="{{ .Title }}" />
-  <meta itemprop="publisher" content="{{ .Site.Title }}" />
+  <meta itemprop="publisher" content="{{ .Site.Title }}" /> -->
   <!-- more meta https://search.google.com/structured-data/testing-tool/u/0/ -->
 
   <!-- OpenGraph data -->
@@ -160,8 +160,12 @@
   {{ end -}}
 
   <!-- rich text meta google -->
-  {{ if eq .Type "letters" -}}
-  {{ partial "rich-text-meta.html" . }}
+  {{ if .IsNode -}}  <!-- for letters root -->
+      {{ partial "meta-blog.html" . }}
+  {{ else if eq .Type "letters" -}}
+      {{ partial "meta-posts.html" . }}
+  {{ else -}}
+      {{ partial "meta-blog.html" . }}
   {{ end -}}
 
   <!-- manifest -->
