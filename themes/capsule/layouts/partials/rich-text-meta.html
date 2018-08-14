@@ -1,13 +1,20 @@
+<!-- rich cards https://developers.google.com/search/docs/data-types/article#article_types -->
+
 <script type="application/ld+json">
 {
 	"@context": "http://schema.org",
-	"@type": "BlogPosting",
-	"mainEntityOfPage": "{{ .RelPermalink | absURL }}",
+	"@type": "NewsArticle",
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": "{{ .RelPermalink | absURL }}"
+	},
 	"headline": "{{ .Title }}",
 	"datePublished": "{{ .Date.Format "Jan 2, 2006" }}",
 	"dateModified": "{{ .Date.Format "Jan 2, 2006" }}",
 	"description": "{{ with .Description }}{{ . }}{{ else }}{{ .Content | plainify | truncate 200 "..." -}}{{ end }}",
-	"image": "{{ .Params.image }}",
+	"image": [
+		"{{ .Params.image }}"
+	],
 	"author": {
 		"@type": "Person",
 		"name": "{{ .Site.Author.name }}"
