@@ -4,6 +4,7 @@ date: 2018-08-10T08:00:00+05:30
 description: "In this letter, we talk about how learning modern languages like Go, Rust can help boost your career"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/alexa.jpeg"
 unsplash: "https://images.unsplash.com/photo-1512446387219-99c19f8fe95f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=68d56705b92c9ff7b1c26ea7f62b3442&auto=format&fit=crop&w=1489&q=80"
+keywords: "go,rust,programming advice"
 ---
 
 The new languages coming out these days are amazing, especially when coming from the C's and Java's.

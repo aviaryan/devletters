@@ -3,6 +3,7 @@ title: "Move Fast and Break Things - How it works"
 date: 2018-08-11T08:00:00+05:30
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/fast.jpeg"
 unsplash: "https://images.unsplash.com/photo-1506719040632-7d586470c936?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e64b8bb53bd561e25aba0bb01deec288&auto=format&fit=crop&w=1170&q=80"
+keywords: "development advice"
 ---
 
 Move Fast and Break Things - such a popular saying in the startup world. Some are so in favor of it that they sing it everyday while there are others that absolutely loathe it.
