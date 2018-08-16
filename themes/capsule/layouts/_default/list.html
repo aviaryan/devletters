@@ -16,6 +16,7 @@
         {{- else }}
         <p class="title">{{ .Kind | title }}: {{ .Title }}</p>
         {{- end }} -->
+        <p class="subtitle">Showing all letters except the last: "Why you should do Competitive Programming, even if a little"</p>
 
         {{- range .Paginator.Pages }}
           {{ .Render "summary" }}
