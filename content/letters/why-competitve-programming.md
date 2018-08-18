@@ -13,18 +13,18 @@ CP has played an important role in my career so far. In fact, it was the major r
 
 So yes, CP is important. Let's just list down the reasons why it helps you as a programmer.
 
-(1) Improves Logic
+## (1) Improves Logic
 
 Your logic improves by practice. You weren't this smart to being with. With CP, you continuously train yourself with algorithmic problems that test the better out of your current logic skills. With more and more practice, you get better.
 
-(2) Speeds up coding
+## (2) Speeds up coding
 
 This might be a direct consequence of point (1). With an improved logic, you will be able to solve problems faster, decide faster, and put it into code faster, without going to and fro thinking about the best approach to code it.
 
 Bonus benefit - There are many 2-3 hrs contest for Competitive Programming, so if you are in a habit of giving those, you must have increased your 
 typing speed too.
 
-(3) You will start writing the best possible code in every situation
+## (3) You will start writing the best possible code in every situation
 
 C, C++, and Java are all compiled languages. That is, they interact directly with the system, and by extension, give you 100% control (figuratively) of how your code runs. 
 
@@ -39,7 +39,7 @@ a mobile app or writing a cron task monitor.
 
 The lessons you learn in CP will stay with you, everywhere you code.
 
-(4) And last but not the least, CP helps you crack hiring coding rounds
+## (4) And last but not the least, CP helps you crack hiring coding rounds
 
 Coding rounds have always used Competitive Programming as a test of the candidate's potential. I don't 100% agree with it but you can't do anything 
 about it. So practicing CP here will always increase your chances of getting selected.
