@@ -3,9 +3,13 @@
 <script>
 $(document).ready(function() {
 	const btn = $("#signup")
-	btn.click(function() {
+	btn.on('click', function() {
 		const email = $("#email").val()
 		console.log("clicked", email)
+		// disable button for doubles
+		btn.attr('disabled', true)
+		btn.off('click')
+		// send request
 		$.ajax({
 			type: 'POST',
 			url: 'https://jarvis.aviaryan.com/subscribe',
