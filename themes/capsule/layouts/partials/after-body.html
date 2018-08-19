@@ -4,7 +4,10 @@
 $(document).ready(function() {
 	const btn = $("#signup")
 	btn.on('click', function() {
-		const email = $("#email").val()
+		const email = $("#email").val().trim()
+		if (!email) {
+			return
+		}
 		console.log("clicked", email)
 		// disable button for doubles
 		btn.attr('disabled', true)
