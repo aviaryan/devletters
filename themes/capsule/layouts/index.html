@@ -7,9 +7,37 @@
 
     {{ partial "home-banner.html" . }}
 
-    <!-- <section class="section" style="flex:1">
+    <!-- <section class="hero is-medium is-light">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">
+            What do you learn about?
+          </h1>
+          <h2 class="subtitle">
+            <ul>
+              <li>Development</li>
+            </ul>
+          </h2>
+        </div>
+      </div>
+    </section> -->
 
+    <section class="section" style="flex:1">
       <div class="container">
+
+        <h2 class="subtitle is-size-2 has-text-centered is-bold">
+          What others are saying
+        </h2>
+
+        <div>
+          {{ range $.Site.Data.testimonials.testimonials }} 
+            <div style="max-width: auto; margin: 2rem auto 2rem auto;">
+              <p><i>{{ .review }}</i></p>
+              <p>— {{ .name }}</p>
+            </div>
+          {{ end }}
+        </div>
+
         <!-- <div class="columns">
 
           <div class="column">
@@ -33,12 +61,11 @@
             {{ partial "sidenav.html" . }}
           </div>
 
-        </div>
+        </div> -->
       </div>
+    </section>
 
-    </section> -->
-
-    <!-- {{ partial "footer.html" . }} -->
+    {{ partial "footer.html" . }}
 
   </body>
   {{ partial "after-body.html" . }}
