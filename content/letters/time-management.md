@@ -1,7 +1,6 @@
 ---
 title: "How to create time"
-date: 2018-08-18T08:00:00+05:30
-draft: true
+date: 2018-08-18T20:00:00+05:30
 unsplash: "https://unsplash.com/photos/LPRrEJU2GbQ"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/hourglass.jpeg"
 keywords: "college,fresher,undergrad,advice,time management"
