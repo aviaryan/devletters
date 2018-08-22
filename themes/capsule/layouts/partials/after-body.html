@@ -1,30 +1,35 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <script>
-$(document).ready(function() {
-	const btn = $("#signup")
-	btn.on('click', function() {
-		const email = $("#email").val().trim()
-		if (!email) {
-			return
-		}
-		console.log("clicked", email)
-		// disable button for doubles
-		btn.attr('disabled', true)
-		btn.off('click')
-		// send request
-		$.ajax({
-			type: 'POST',
-			url: 'https://jarvis.aviaryan.com/subscribe',
-			data: {'email': email},
-			success: function(dataString) {
-				console.log(dataString)
-				if (dataString['status']) {
-					document.location.href = '/thank-you'
-				}
+function signUp() {
+	const btn = $(this)
+	let emailId = btn.data("for")
+	console.log(emailId)
+	let email = $('#' + emailId).val().trim()
+	if (!email) {
+		return
+	}
+	console.log("clicked", email)
+	// disable button for doubles
+	btn.attr('disabled', true)
+	btn.off('click')
+	// send request
+	$.ajax({
+		type: 'POST',
+		url: 'https://jarvis.aviaryan.com/subscribe',
+		data: { 'email': email },
+		success: function (dataString) {
+			console.log(dataString)
+			if (dataString['status']) {
+				document.location.href = '/thank-you'
 			}
-		})
+		}
 	})
+}
+
+$(document).ready(function() {
+	$("#signup1").on('click', signUp)
+	$("#signup2").on('click', signUp)
 })
 </script>
 

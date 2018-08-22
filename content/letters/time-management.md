@@ -1,5 +1,5 @@
 ---
-title: "How to create time"
+title: "How to create more time for yourself (and your goals)"
 date: 2018-08-18T20:00:00+05:30
 unsplash: "https://unsplash.com/photos/LPRrEJU2GbQ"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/hourglass.jpeg"

@@ -49,3 +49,10 @@
 .hero .navbar {
 	background-color: $primary;
 }
+
+// fix for mobile burger menu
+@media screen and (max-width: 1087px) {
+	.navbar-menu {
+		background-color: inherit;
+	}
+}
