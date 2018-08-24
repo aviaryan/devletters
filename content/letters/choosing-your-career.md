@@ -8,13 +8,13 @@ unsplash: "https://unsplash.com/photos/3To9V42K0Ag"
 keywords: "career,advice,life,work,impact"
 ---
 
-The more I go through trying to build my career, the more I realize finding your dream "career" is way obvious than it looks.
+The more I go through trying to build my career, the more I realize finding your dream "career" is way simpler than it looks.
 
 I will give an example.
 
 Almost everyone wants to be startup founders, you know, running a million/billion dollar business like Elon Musk or Mark Zuckerburg.
 
-But do you really want to become like them?
+But do you really want to be like them?
 
 That is, are you ready to take the 16 hour work days their work requires sometime?
 
@@ -28,11 +28,11 @@ Are you okay with sharing your body for money as part of ad campaigns?
 
 Are you okay with dealing with long shooting sessions, from 4 am to 10 pm, where they might ask you to shoot the same scene 30 times? (this can be quite frustrating, trust me, I know it first-hand)
 
-Are you okay with (again) being too much in public?
+Are you okay with your life being too much in public?
 
 THINK ABOUT these questions for a moment. Think how your life will be like if you are there. 
 
-I think most of you would have a problem with either one or all of the situations. 
+I believe most of you would have a problem with at least one or all of these situations. 
 
 And yet, you still want to become the next Zuckerberg or the next Robert Downey Jr.
 
@@ -60,11 +60,11 @@ And it is also possible that you discovered some dark, not-so-civil things about
 
 How? Let's see my list of priorities.
 
-1. Good food and life security (domain = practical)
-2. All the free time in the world, quality lifestyle (domain = lifestyle, somewhat personal)
-3. Social respect and recognition (domain = social, somewhat personal, somewhat moral)
-4. PRIVATE CAN'T SHARE
-5. Moral duties like making the world a better place (domain = moral)
+1. Good food and life security (tentacle = practical)
+2. All the free time in the world, quality lifestyle (tentacle = lifestyle, somewhat personal)
+3. Social respect and recognition (tentacle = social, somewhat personal, somewhat moral)
+4. PRIVATE CAN'T SHARE (tentacle = personal)
+5. Moral duties like making the world a better place (tentacle = moral)
 
 I know, you might be thinking Avi, you are so selfish. You have social recognition at #3 and making the world a better place at #5, below your own needs like good lifestyle, food, and security.
 
@@ -74,11 +74,11 @@ And here's why?
 
 Let's assume that I do change this order, making moral duties at the top position.
 
-Will it make me happy? Most probably no.
+Will it make me happier? Most probably no.
 
-And what good impact will I have on the world?
+And will I have a major positive impact on the world?
 
-I might have some but do you think it will be the best I can do?
+I might have some but do you think this is the best I can do?
 
 Suppose I stay intact with my current list of priorities, make myself a good lifestyle, and when those needs are met, I go on to saving the world and making the world a better place.
 
@@ -92,10 +92,10 @@ Same with a person like Tim Ferriss. His free podcasts are a huge knowledge base
 
 Do you think if his #1 priority would have been starting a podcast from the start, he would have been able to make such an impact? Probably no. But here he is.
 
-I can go on and on but I think I have made my point. 
+I can go on and on but I think I have made my point.
 
 Following your own list of priorities rather than the one installed in you by popular society will be good for both, you and everyone around you.
 
 You will be happier, more successful, more impactful and more "a lot of other good adjectives".
 
-**PS** - I know most of you have just skipped reading that article. So here you go again - read [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html).
+**PS** - I know most of you might have skipped reading that article so here you go again. Read [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html).
