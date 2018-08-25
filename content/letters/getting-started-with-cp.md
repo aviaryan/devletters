@@ -1,8 +1,7 @@
 ---
 title: "Getting started with Competitive Programming - Build your algorithm skills"
 date: 2018-08-21T08:00:00+05:30
-draft: true
-description: "The ultimate guide to how to get start with competitive programming and building your algorithmic skills"
+description: "A step by step guide on how to get start with competitive programming and building your algorithmic skills"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg"
 unsplash: "https://unsplash.com/photos/iar-afB0QQw"
 keywords: "competitive programming,algorithms,codechef,codeforces,topcoder,cp,beginners"
