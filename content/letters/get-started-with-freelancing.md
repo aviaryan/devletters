@@ -17,7 +17,7 @@ Many reasons -
 
 - Ability to choose your work
 - Location independence - work from anywhere, including your home
-- Higher relative pays if you reside in a third world country
+- Higher relative pays if you reside in a third world country (like India)
 
 But you can really enjoy all these benefits once you have set your foot in the freelancing world. And it does take some time.
 
