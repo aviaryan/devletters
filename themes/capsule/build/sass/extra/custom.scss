@@ -50,6 +50,17 @@
 	background-color: $primary;
 }
 
+// highlight selection color
+::selection {
+	background: yellow;
+	padding: 1rem;
+}
+
+::-moz-selection {
+	background: yellow;
+	padding: 1rem;
+}
+
 // fix for mobile burger menu
 @media screen and (max-width: 1087px) {
 	.navbar-menu {
