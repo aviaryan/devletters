@@ -16,7 +16,7 @@
         {{- else }}
         <p class="title">{{ .Kind | title }}: {{ .Title }}</p>
         {{- end }} -->
-        <p class="subtitle">Showing all letters except the last: "The complete Toptal hiring process for freelancers"</p>
+        {{ .Render "last-summary" }}
 
         {{- range .Paginator.Pages }}
           {{ .Render "summary" }}
