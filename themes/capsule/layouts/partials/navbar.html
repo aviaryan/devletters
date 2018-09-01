@@ -1,4 +1,4 @@
-<nav class="navbar is-white is-transparent"
+<nav class="navbar is-transparent"
      role="navigation" aria-label="main navigation"
      {{ if .Params.image }}style="background-color: inherit;"{{ end }}>
   <div class="container">
@@ -9,7 +9,7 @@
         <img alt="Brand" 
           src="{{ if or (.IsHome) (.Params.image) }}{{ .Site.Data.defaults.icons.brand }}{{ else }}{{ .Site.Data.defaults.icons.brand_inv }}{{ end }}">
         {{- end }}
-        <div class="title is-4" {{ if .Params.image }}style="color: #fff;"{{ end }}>&nbsp;{{ .Site.Title }}</div>
+        <div class="title is-4" {{ if or (.IsHome) (.Params.image) }}style="color: #fff;"{{ end }}>&nbsp;{{ .Site.Title }}</div>
       </a>
 
       <!-- Using a <label /> here -->

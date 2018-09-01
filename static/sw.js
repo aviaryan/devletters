@@ -1,7 +1,7 @@
 // https://developers.google.com/web/fundamentals/primers/service-workers/
 
 // update this whenever significant change, like new post
-var CACHE_NAME = 'dev-letters-v5';
+var CACHE_NAME = 'dev-letters-v8';
 
 var urlsToCache = [
 	'/',

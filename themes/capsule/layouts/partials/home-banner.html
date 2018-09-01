@@ -1,39 +1,45 @@
-<section class="hero is-primary is-fullheight">
+<section class="hero is-transparent is-fullheight">
 	<div class="hero-head">
 		 {{ partial "navbar.html" . }}
 	</div>
 	<div class="hero-body">
-		<div class="container has-text-centered">
+		<div class="container is-widescreen">
+			<div style="max-width: 650px; margin: auto auto;">
+				<!-- <h1 class="title is-size-1 has-text-centered">
+					Dev Letters
+				</h1> -->
 
-			<!-- <div style="max-width: 400px;">
-				{{ range $.Site.Data.testimonials.testimonials }} 
-					<span>{{ .review }}</span>
-				{{ end }}
-			</div> -->
+				<h2 class="subtitle" style="margin-top: 1rem;">
+					<p>Hi, 👋🏻<br />
+					I am Avi, an engineer, entrepreneur and freelancer at <a href="http://bit.ly/toptalaviref">Toptal</a>.
+				I am the primary author at Dev Letters.</p>
 
-			<h1 class="title is-size-1">
-				Dev Letters
-			</h1>
-			<h2 class="subtitle">
-				Emails about development, freelance, life and everything in between. 
-				Subscribe for exclusive content.
-				<!-- <b>{{ .Site.Params.subs }}+</b> people already on the list. -->
-				<!-- Blog focusing on experiences as a <b>developer</b>.
-				Sign up on the mailing list for early access to new posts (aka letters). -->
-			</h2>
-			<div style="max-width: 400px; margin: 0 auto;">
-				<div class="field has-addons">
-					<div class="control is-expanded">
-						<input class="input" type="email" id="email" placeholder="yours@email.com" aria-label="email">
-					</div>
-					<div class="control">
-						<a class="button" id="signup">SUBSCRIBE</a>
+				<br />
+
+					<p>Dev Letters is about <b>non-tech</b> emails on development, freelance, startups and life. 
+						Join today for free and learn a new thing with every email.</p>
+					<!-- <b>{{ .Site.Params.subs }}+</b> people already on the list. -->
+					<!-- Blog focusing on experiences as a <b>developer</b>.
+								Sign up on the mailing list for early access to new posts (aka letters). -->
+
+				<br />
+					<p>You can find our old editions <a href="/letters">here</a>.</p>
+				</h2>
+
+				<div>
+					<div class="field has-addons">
+						<div class="control is-expanded">
+							<input class="input" type="email" id="email1" placeholder="spam.free@youremail.com" aria-label="email">
+						</div>
+						<div class="control">
+							<a class="button is-primary" id="signup1" data-for="email1">LET ME IN!</a>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="hero-foot">
+	<!-- <div class="hero-foot">
 		<nav class="level is-mobile">
 			<div class="level-left" style="margin-left: 6px">
 				<div class="level-item">
@@ -49,5 +55,5 @@
 				</a>
 			</div>
 		</nav>
-	</div>
+	</div> -->
 </section>

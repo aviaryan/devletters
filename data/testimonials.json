@@ -1,10 +1,22 @@
 {
 	"testimonials": [
 		{
-			"name": "Chaitanya",
+			"name": "Kumar Chaitanya",
 			"review": "Avi's newsletters are really inspiring and motivating. It is very knowledgeable. I always wait for his newsletters so that I could get to know about some more interesting stuff related to the coding world. Best way to start a day.",
 			"published": true,
 			"link": ""
+		},
+		{
+			"name": "Shubham Soni",
+			"review": "Hello Avi, I've been following your posts on medium, Twitter since past 1 year. The content you put in your posts is really helpful for someone who really wants to become a good web developer. Just wanted to let you know that.",
+			"published": true,
+			"link": "https://mail.google.com/mail/u/0/#inbox/FMfcgxvxBjTBhzBMJKpzRLSqCwbCxCxB"
+		},
+		{
+			"name": "Nitanshu Vashistha",
+			"review": "I've been following you on LinkedIn and GitHub from quite some time and you are an inspiration to me. I am also a subscriber of your mailing list and I loved the last article. I am trying to incorporate the tips you shared on time management and the results are positive.",
+			"published": true,
+			"link": "https://www.linkedin.com/messaging/thread/6437677749191704576/"
 		}
 	]
 }

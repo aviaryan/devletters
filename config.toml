@@ -12,8 +12,8 @@ disqusShortname = "devletters"
 [params]
   googleAnalytics = "UA-42460130-5"
   description = "Mailing list about various aspects of life as a developer. Maintained by Avi Aryan."
-  keywords = "Newsletter,Coder,Developer,Coding,Blog,Avi Aryan"
-  subs = "50"
+  keywords = "Newsletter,Coder,Developer,Coding,Freelance,Startup,Blog,Avi Aryan"
+  subs = "130"
 
 [social]
   twitter = "aviaryan123"
