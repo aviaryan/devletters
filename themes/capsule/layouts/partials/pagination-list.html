@@ -13,7 +13,7 @@
 
   <ul class="pagination-list">
 
-  {{- if .Paginator.HasPrev }}
+  <!-- {{- if .Paginator.HasPrev }}
     {{- if eq .Paginator.Prev.PageNumber 1 }}
     <li><a href="{{ .Paginator.Prev.URL }}" class="pagination-link">
       {{ .Paginator.Prev.PageNumber }}
@@ -31,13 +31,13 @@
       {{ .Paginator.Prev.PageNumber }}
     </a></li>
     {{- end }}
-  {{- end }}
+  {{- end }} -->
 
     <!-- <li><a href="{{ .Paginator.URL }}" class="pagination-link is-current">
       {{ .Paginator.PageNumber }}
     </a></li> -->
 
-  {{- if .Paginator.HasNext }}
+  <!-- {{- if .Paginator.HasNext }}
     {{- if eq .Paginator.Next.PageNumber .Paginator.Last.PageNumber }}
     <li><a href="{{ .Paginator.Next.URL }}" class="pagination-link">
       {{ .Paginator.Next.PageNumber }}
@@ -55,7 +55,7 @@
       {{- .Paginator.Last.PageNumber }}
     </a></li>
     {{- end }}
-  {{- end }}
+  {{- end }} -->
 
   </ul>
 </nav>
