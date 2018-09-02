@@ -1,4 +1,5 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/en-ca.js"></script> -->
 
 <script>
 function signUp() {
@@ -30,6 +31,21 @@ function signUp() {
 $(document).ready(function() {
 	$("#signup1").on('click', signUp)
 	$("#signup2").on('click', signUp)
+
+	const tt = $("#time-to")
+	if (tt) {
+		const dateFinal = new Date(tt.data('date'))
+		console.log(dateFinal)
+		const diff = dateFinal - (new Date())
+		const hrs = diff / 1000 / 3600
+		const hk = Math.ceil(hrs)
+		console.log(hk)
+		if (diff <= 0){
+			tt.html('now')
+		} else {
+			tt.html('in ' + hk + ' hours')
+		}
+	}
 })
 </script>
 
