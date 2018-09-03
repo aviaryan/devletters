@@ -1,5 +1,5 @@
 ---
-title: "Interview with a NLP engineer - Navneet Nandan"
+title: "Interview with a NLP engineer: Navneet Nandan"
 date: 2018-09-03T20:00:00+05:30
 draft: true
 unsplash: "https://unsplash.com/photos/o8Au1Bt85HQ"
@@ -38,11 +38,11 @@ In the coming years, I would like to become part of some of the leading research
 
 There has been a lot of new technology developments in recent years, ranging from Artificial Intelligence to Virtual Reality and Augmented Reality to Blockchains. 
 
-NLP is one of the driving forces of artificial intelligence as most of the input is given in human language. Until computers are not able to completely understand the human language, we cannot make a sound intelligent system which can interact with humans or follow them. 
+NLP is one of the driving forces of artificial intelligence as most of the input is given in human language. Until computers are not able to completely understand the human language, we cannot make a sound intelligent system which can interact with humans or follow their directions. 
 
 In the field of VR and AR, I don't think NLP is going to contribute much. 
 
-Applying blockchains and NLP together is very new right now, but blockchains are helping to decentralize the whole AI platform by (for example) making truly personal assistant with fewer security concerns. Doc.ai has interesting applications combining blockchain and NLP to create the first Blockchain-Enabled Natural Language Processing Platform For Quantified Biology ([link](https://www.prnewswire.com/news-releases/docai-announces-first-blockchain-enabled-natural-language-processing-platform-for-quantified-biology-300508942.html)).
+Applying blockchains and NLP together is very new right now, but blockchains are helping to decentralize the whole AI platform by (for example) making truly personal assistant with fewer security concerns. Doc.ai has interesting applications combining blockchain and NLP to create the first Blockchain-Enabled Natural Language Processing Platform for Quantified Biology ([link](https://www.prnewswire.com/news-releases/docai-announces-first-blockchain-enabled-natural-language-processing-platform-for-quantified-biology-300508942.html)).
 
 ### How should a beginner go about starting learning NLP?
 
