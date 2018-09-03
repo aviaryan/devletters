@@ -16,9 +16,12 @@
         {{- else }}
         <p class="title">{{ .Kind | title }}: {{ .Title }}</p>
         {{- end }} -->
-        {{ .Render "last-summary" }}
 
         {{- range .Paginator.Pages }}
+          {{- if not .Prev }}
+            <!-- only for first post -->
+            {{ .Render "last-summary" }}
+          {{- end }}
           {{ .Render "summary" }}
         {{- end }}
       </div>
