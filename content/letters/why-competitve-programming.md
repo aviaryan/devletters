@@ -2,7 +2,7 @@
 title: "Why you should do Competitive Programming, even if a little"
 date: 2018-08-16T14:00:00+05:30
 description: "Competitive Programming is important, whether you like it or not - and here's why you should be doing it"
-tags: ["cp", "career"]
+tags: ["cp", "career advice"]
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/code.jpeg"
 unsplash: "https://unsplash.com/photos/8OyKWQgBsKQ"
 keywords: "competitive programming,codechef,hackerrank,interview computer science"

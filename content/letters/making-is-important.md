@@ -2,7 +2,7 @@
 title: "Why should you make things"
 date: 2018-09-07T20:00:00+05:30
 draft: true
-tags: ["career"]
+tags: ["career advice", "philosphy"]
 unsplash: "https://unsplash.com/photos/h448yp0t2qQ"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/fresher.jpeg"
 keywords: "github,making,practical"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Dev Letters"
 date: 2018-08-08T12:42:18+05:30
-tags: ["devletters"]
+tags: ["devletters", "writing"]
 # categories: [""]
 # meta
 description: "Avi talks about the motive behing making Dev Letters and what it offers to its readers"

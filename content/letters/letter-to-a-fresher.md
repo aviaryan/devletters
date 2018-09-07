@@ -1,7 +1,7 @@
 ---
 title: "Letter to a Computer Science college fresher"
 date: 2018-08-14T08:00:00+05:30
-tags: ["career"]
+tags: ["career advice"]
 unsplash: "https://unsplash.com/photos/h448yp0t2qQ"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/fresher.jpeg"
 keywords: "college,fresher,undergrad,advice"
