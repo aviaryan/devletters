@@ -2,9 +2,9 @@
 title: "Interview with a NLP engineer: Navneet Nandan"
 date: 2018-09-03T20:00:00+05:30
 tags: ["interview", "data science"]
-unsplash: "https://unsplash.com/photos/o8Au1Bt85HQ"
-image: "https://s3.us-east-2.amazonaws.com/devletters/covers/homeoffice.jpg"
-keywords: "toptal,freelance,nomad,upwork,freelancer"
+unsplash: "https://unsplash.com/photos/wbu4q8xk2Kc"
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/robot.jpeg"
+keywords: "interview,nlp,data science"
 ---
 
 This Dev Letter is a bit different. Today, we have Navneet Nandan, who is a Data Science professional and he is sharing some insights about his career. 
