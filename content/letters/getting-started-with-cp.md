@@ -1,6 +1,7 @@
 ---
 title: "Getting started with Competitive Programming - Build your algorithm skills"
 date: 2018-08-21T08:00:00+05:30
+tags: ["cp", "algorithms"]
 description: "A step by step guide on how to get start with competitive programming and building your algorithmic skills"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg"
 unsplash: "https://unsplash.com/photos/iar-afB0QQw"

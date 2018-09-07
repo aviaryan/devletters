@@ -1,7 +1,7 @@
 ---
 title: "Interview with a NLP engineer: Navneet Nandan"
 date: 2018-09-03T20:00:00+05:30
-draft: true
+tags: ["interview", "data science"]
 unsplash: "https://unsplash.com/photos/o8Au1Bt85HQ"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/homeoffice.jpg"
 keywords: "toptal,freelance,nomad,upwork,freelancer"
