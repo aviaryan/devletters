@@ -4,7 +4,8 @@ layout: "free"
 ---
 
 <div class="has-text-centered">
-	<h1 class="is-size-2">Thank you for subscribing</h1>
+	<h1 class="is-size-2">Thank you, One more step remaining</h1>
 
-	<p>Please check your email for a confirmation to subscribe to <a href="https://devletters.com">Dev Letters</a>. Be sure to check SPAM folder.</p>
+	<p>
+	You have been sent an email with a confirmation link. Click on that link to be added to the <a href="https://devletters.com">Dev Letters</a> mailing list. Be sure to check SPAM folder.</p>
 </div>
