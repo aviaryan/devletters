@@ -1,6 +1,6 @@
 ---
 title: "GSoC is easy if you have a planned approach"
-date: 2018-09-11T08:00:00+05:30
+date: 2018-09-12T08:00:00+05:30
 tags: ["gsoc"]
 draft: true
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg"
