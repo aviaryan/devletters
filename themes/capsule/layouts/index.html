@@ -22,6 +22,35 @@
       </div>
     </section> -->
 
+
+    <section class="section">
+      <div class="container">
+        <h2 class="subtitle is-size-2 has-text-centered is-bold">
+          We have letters on...
+        </h2>
+        <div class="columns is-multiline">
+
+          {{ range $.Site.Taxonomies.categories.ByCount }}
+          {{ if gt .Count 0 }}
+          <div class="column is-one-third" style="padding: 0.4rem 0.4rem;">
+            <div class="card has-text-centered has-background-white-bis" style="padding: 1rem 1rem;">
+              <div class="card-content is-size-4">
+                <a href="/categories/{{ .Name }}">{{ .Name }}</a>
+              </div>
+              <div class="card-footer">
+                {{ .Count }} posts
+              </div>
+            </div>
+            <!-- <a href="/categories/{{ .Name }}" style="margin: auto 1rem;"><span class="tag is-size-5">{{ .Name }} 
+              <small>({{ .Count }})</small></span></a> -->
+          </div>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+
     <section class="section" style="flex:1">
       <div class="container">
 
@@ -64,6 +93,21 @@
         </div> -->
       </div>
     </section>
+
+    <!-- <section class="section">
+      <div class="container">
+        <h2 class="subtitle is-size-2 has-text-centered is-bold">
+          We write about...
+        </h2>
+        <div>
+          {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+          {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+            <div><a href="{{ .Permalink }}" style="margin: auto 1rem;"><span class="tag is-size-6">{{ $name }}</span></a></div>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section> -->
 
     {{ partial "footer.html" . }}
 
