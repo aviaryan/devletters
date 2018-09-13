@@ -7,7 +7,7 @@
       <a class="navbar-item" href="/">
         {{- if (fileExists (print "/static" .Site.Data.defaults.icons.brand)) }}
         <img alt="Brand" 
-          src="{{ if or (.IsHome) (.Params.image) }}{{ .Site.Data.defaults.icons.brand }}{{ else }}{{ .Site.Data.defaults.icons.brand_inv }}{{ end }}">
+          src="{{ if or (.IsHome) (.Params.image) }}{{ .Site.Data.defaults.icons.brand }}{{ else }}{{ .Site.Data.defaults.icons.brand }}{{ end }}">
         {{- end }}
         <div class="title is-4" {{ if or (.IsHome) (.Params.image) }}style="color: #fff;"{{ end }}>&nbsp;{{ .Site.Title }}</div>
       </a>
