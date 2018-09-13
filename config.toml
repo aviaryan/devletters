@@ -19,6 +19,6 @@ disqusShortname = "devletters"
   twitter = "aviaryan123"
   facebook = "aviaryan123"
 
-#[taxonomies]
-#  category = "categories"
-#  tag = "tags"
+[taxonomies]
+  tag = "tags"
+  category = "categories"

@@ -1,0 +1,43 @@
+<!-- refer here https://discourse.gohugo.io/t/handling-taxonomies-like-a-boss-update/7719 -->
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+
+{{ partial "head.html" . }}
+
+<body style="min-height:100vh;display:flex;flex-direction:column">
+
+	{{ partial "navbar.html" . }}
+
+	<section class="section" style="flex:1">
+
+		<!-- Content -->
+		<div class="container" style="min-height:56vh">
+			<!-- {{- if .Data.Singular }}
+        <p class="title">{{ .Data.Singular | title }}: {{ .Title }}</p>
+        {{- else }}
+        <p class="title">{{ .Kind | title }}: {{ .Title }}</p>
+        {{- end }} -->
+
+			{{- range .Paginator.Pages }}
+				{{ .Render "summary" }}
+			{{- end }}
+		</div>
+
+		<br>
+		<br>
+		<br>
+
+		<!-- Pagination -->
+		<div class="container">
+			{{ partial "pagination-list.html" . }}
+		</div>
+
+	</section>
+
+	{{ partial "footer.html" . }}
+
+</body>
+
+{{ partial "after-body.html" . }}
+
+</html>

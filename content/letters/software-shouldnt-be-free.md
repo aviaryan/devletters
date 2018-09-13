@@ -2,6 +2,7 @@
 title: "Why software shouldn't be free"
 date: 2018-08-13T08:00:00+05:30
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/money.jpeg"
+categories: ["philosphy"]
 tags: ["philosphy"]
 unsplash: "https://images.unsplash.com/photo-1520695287272-b7f8af46d367?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=55c87dd381a07bf88901f1e157e45af8&auto=format&fit=crop&w=1500&q=80"
 hn: "https://news.ycombinator.com/item?id=17749314"

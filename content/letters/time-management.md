@@ -2,7 +2,8 @@
 title: "How to create more time for yourself (and your goals)"
 date: 2018-08-18T20:00:00+05:30
 unsplash: "https://unsplash.com/photos/LPRrEJU2GbQ"
-tags: ["advice"]
+categories: ["general advice"]
+tags: ["general advice"]
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/hourglass.jpeg"
 keywords: "college,fresher,undergrad,advice,time management"
 ---
