@@ -12,7 +12,9 @@
 
 		<!-- Content -->
 		<div class="container" style="min-height:56vh">
-			<p class="title">{{ .Data.Singular | title }}: {{ .Title }}</p>
+			<h1 class="title" style="margin-bottom: 2rem;">
+				Posts with <a href="../">{{ .Data.Singular }}</a>: {{ .Title }}
+			</h1>
 
 			{{- range .Paginator.Pages }}
 				{{ .Render "summary" }}
