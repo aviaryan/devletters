@@ -12,11 +12,7 @@
 
 		<!-- Content -->
 		<div class="container" style="min-height:56vh">
-			<!-- {{- if .Data.Singular }}
-        <p class="title">{{ .Data.Singular | title }}: {{ .Title }}</p>
-        {{- else }}
-        <p class="title">{{ .Kind | title }}: {{ .Title }}</p>
-        {{- end }} -->
+			<p class="title">{{ .Data.Singular | title }}: {{ .Title }}</p>
 
 			{{- range .Paginator.Pages }}
 				{{ .Render "summary" }}
