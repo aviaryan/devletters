@@ -1,5 +1,5 @@
 ---
-title: "Why should you make things"
+title: "Why you should make things"
 date: 2018-09-07T20:00:00+05:30
 categories: ["students", "development"]
 tags: ["career", "philosphy", "students", "development"]
