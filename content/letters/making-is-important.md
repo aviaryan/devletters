@@ -3,8 +3,8 @@ title: "Why you should make things"
 date: 2018-09-07T20:00:00+05:30
 categories: ["students", "development"]
 tags: ["career", "philosphy", "students", "development"]
-unsplash: "https://unsplash.com/photos/h448yp0t2qQ"
-image: "https://s3.us-east-2.amazonaws.com/devletters/covers/fresher.jpeg"
+unsplash: "https://unsplash.com/photos/QC1oHW5JVu4"
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/builder.jpeg"
 keywords: "github,making,practical"
 ---
 
@@ -65,7 +65,7 @@ Can you make a production-level Python server just by reading all the good books
 Without it, you won't be able to take client projects that have that requirement OR apply to that job which requires a production Python engineer. So "making" will help avoid ending up in this situation. Also, clients and companies will trust you more if you have already done similar work to what you intend to do for them.
 
 
-### Theory is procrastination
+### It helps beat procrastination
 
 Reading, Thinking, Planning, etc if done above a certain extent, can easily mean procrastination. 
 
