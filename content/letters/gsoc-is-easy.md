@@ -9,15 +9,9 @@ unsplash: "https://unsplash.com/photos/iar-afB0QQw"
 keywords: "gsoc,google summer of code,crack,avi aryan"
 ---
 
-Google Summer of Code - I am sure every undergrad has the dream of being selected in it one day.
+Google Summer of Code - I am sure every undergrad has the dream of being selected in it one day. And the good news is that anyone can do so with some effort. By anyone, I mean any person with some appetite for coding and a strong resolve.
 
-And the good news is that anyone can do so with some effort.
-
-By anyone, I mean any person with some appetite for coding and a strong resolve.
-
-Seriously, GSoC is not really tough. You just need to follow a good, organized strategy and you can get selected.
-
-Especially, Indians have performed exceptionally well this year. [11 of the 13](https://opensource.googleblog.com/2018/06/google-summer-of-code-2018-statistics-part-2.html) top schools are from India. 
+Seriously, GSoC is not really tough. You just need to follow a good, organized strategy and you can get selected. Especially, Indians have performed exceptionally well this year. [11 of the 13](https://opensource.googleblog.com/2018/06/google-summer-of-code-2018-statistics-part-2.html) top schools are from India. 
 
 ![](https://i.imgur.com/0aS157u.png)
 
@@ -135,8 +129,6 @@ Be good in this interval and you will have a huge chance of being selected.
 
 You are now selected for GSoC. Congrats 🎉!
 
-If you want to learn what happens next, I have written another article documenting the whole journey.
-
-Here you go - [My GSoC 2016 Story](https://aviaryan.in/blog/first-gsoc-story.html)
+If you want to learn what happens next, I have written another article documenting the whole journey. Here you go - [My GSoC 2016 Story](https://aviaryan.in/blog/first-gsoc-story.html)
 
 Cheers, and best of luck!
