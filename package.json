@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "css": "cd themes/capsule && gulp",
     "serve": "hugo server --disableFastRender -DF",
-    "deploy": "hugo && surge public/ devletters.com"
+    "deploy": "hugo && surge public/ devletters.com",
+    "theme": "cd themes/capsule && npm install && gulp",
+    "build": "npm run theme && hugo"
   },
   "repository": {
     "type": "git",

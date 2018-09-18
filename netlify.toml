@@ -1,0 +1,7 @@
+[Settings]
+ID = "48727d6a-c748-485c-82b6-01cc85e22863"
+
+[build]
+  base    = "."
+  publish = "public"
+  command = "npm run build"
