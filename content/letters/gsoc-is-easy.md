@@ -3,9 +3,8 @@ title: "GSoC is easy if you have a planned approach"
 date: 2018-09-12T08:00:00+05:30
 categories: ["students"]
 tags: ["gsoc", "students"]
-draft: true
-image: "https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg"
-unsplash: "https://unsplash.com/photos/iar-afB0QQw"
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/youngpeople.jpeg"
+unsplash: "https://unsplash.com/photos/XkKCui44iM0"
 keywords: "gsoc,google summer of code,crack,avi aryan"
 ---
 
