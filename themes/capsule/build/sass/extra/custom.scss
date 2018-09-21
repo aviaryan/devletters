@@ -42,12 +42,24 @@
 
 // for articles
 .content h2 {
-	font-size: 1.33em;
+	font-size: 1.5em;
+}
+
+.content h3 {
+	font-size: 1.25em;
 }
 
 // navbar home
 .hero .navbar {
 	background-color: $primary;
+}
+
+// img views
+.content img {
+	max-width: 90%;
+	border: 1px solid;
+	margin: 1rem auto;
+	display: block;
 }
 
 // highlight selection color

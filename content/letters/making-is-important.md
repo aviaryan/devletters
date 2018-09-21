@@ -42,14 +42,14 @@ To put one's beliefs about oneself in their correct place. It's tough to be 100%
 
 And then there are other reasons to MAKE too.
 
-### It gets your creative juices flowing 
+## It gets your creative juices flowing 
 
 Whoever says that you don't need creativity to succeed in a field, such as programming, is lying. As a human, you require creativity to out-do yourself and transcend your existence. 
 
 Training your creative muscles is always a good idea. Making stuff will help you do that.
 
 
-### It builds your portfolio
+## It builds your portfolio
 
 Portfolios are important, now more than ever, thanks to the rising number of college graduates and hence, decrease in overall quality of the same. How do you distinguish yourself from thousands and thousands of graduates?
 
@@ -58,14 +58,14 @@ Resumes are okay but anyone can lie in them, plus they can easily be boasted thr
 So in the current state of time, having a portfolio is your best bet of distinguishing yourself. And you can only make a portfolio by building stuff.
 
 
-### Doing something gives you confidence
+## Doing something gives you confidence
 
 Can you make a production-level Python server just by reading all the good books and articles on the topic? Hell no. You need to do it 2-3 times before you are confident in yourself that you can do it. And confidence is everything.
 
 Without it, you won't be able to take client projects that have that requirement OR apply to that job which requires a production Python engineer. So "making" will help avoid ending up in this situation. Also, clients and companies will trust you more if you have already done similar work to what you intend to do for them.
 
 
-### It helps beat procrastination
+## It helps beat procrastination
 
 Reading, Thinking, Planning, etc if done above a certain extent, can easily mean procrastination. 
 

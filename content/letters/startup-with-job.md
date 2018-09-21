@@ -17,13 +17,13 @@ I have personally struggled with this for so long and it was only recently that 
 
 So what's the way? It's simple. By not using the money you earn through your job. What I mean to say is that you keep the money you earn from your job/freelance aside and live on a restricted budget. Now, there are 2 ways to go about this. One might work for you better than the other so try both and see what helps you more.
 
-### 1. Everything goes in Fixed Deposits
+## 1. Everything goes in Fixed Deposits
 
 This one is quite obvious and simple to execute. Basically, you keep all the money you earn through your job or client projects aside into your bank's fixed deposits. That way, they won't be visible in your bank account balance and so you would get a sense of working on a startup *after leaving your job* as your savings will be continuously decreasing.
 
 You will be forced to track expenses, live frugally, and do only high-ROI activities that can bring revenue from your business. And of course, you are free to include the revenue from the business back into your account balance, and do what you want with it, either invest it back into the business or buy expensive items. I doubt you will do the latter though, as you will be going down a downward slope.
 
-### 2. The N% handicap
+## 2. The N% handicap
 
 In some aspects, this method is way more brutal than the first one even though it involves using what you earn. How? Because if you are following this method, you would select a fixed number N and then only use (100-N)% of your income. The rest will go in fixed deposits. In other words, this method will give you a sense of earning money from whatever you do but it will be diminished by some factor (or many factors in some cases).
 
@@ -33,6 +33,6 @@ It can help in businesses too. A diminished revenue will mean that you need to g
 
 The thing to be careful here is that you shouldn't overdo it. That is, don't set N to such a large number that you find yourself slaving 80 hrs/week or unable to sleep. Keep N within limits and you will be amazed at the level of productivity you can achieve.
 
-### Conclusion
+## Conclusion
 
 If you are thinking this is too extreme or dangerous, it's not. Fixed Deposits can be easily broken, so if you are in an emergency and need your locked funds, you can always access them. Also, you won't have any problems living with that restricted amount of income. The only thing to look out for is your mental health. Keep it under check and stop if you are struggling too much.
