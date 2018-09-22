@@ -3,9 +3,8 @@ title: "The N% handicap - How to startup without leaving job"
 date: 2018-09-18T20:00:00+05:30
 categories: ["startups"]
 tags: ["freelancing", "startups"]
-draft: true
-image: "https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg"
-unsplash: "https://unsplash.com/photos/iar-afB0QQw"
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/hustle.jpeg"
+unsplash: "https://unsplash.com/photos/3KmWk2WC_Z0"
 keywords: "money management,life hacks,startup,finance,personal"
 ---
 
