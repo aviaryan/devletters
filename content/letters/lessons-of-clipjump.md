@@ -3,9 +3,9 @@ title: "The story of Clipjump - Lessons learned while reaching 100k+ downloads a
 date: 2018-09-22T20:00:00+05:30
 categories: ["startups"]
 tags: ["development", "startups"]
-draft: true
-image: "https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg"
-unsplash: "https://unsplash.com/photos/iar-afB0QQw"
+# draft: true
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/dragon.jpeg"
+unsplash: "https://unsplash.com/photos/UruYxTDzLFY"
 keywords: "clipjump,startup,software development"
 ---
 
