@@ -4,8 +4,7 @@ date: 2018-09-30T20:00:00+05:30
 categories: ["career"]
 tags: ["career", "freelancing", "startups"]
 description: "What are most common careers you can have as a programmer? Learn more in this article."
-image: "https://s3.us-east-2.amazonaws.com/devletters/covers/youhere.jpeg"
-unsplash: "https://unsplash.com/photos/3To9V42K0Ag"
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/programmer.jpeg"
 keywords: "career,advice,freelancing,startup,coding,programming"
 ---
 
