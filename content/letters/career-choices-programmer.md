@@ -2,7 +2,6 @@
 title: "Career choices for programmers"
 date: 2018-09-30T20:00:00+05:30
 categories: ["career"]
-draft: true
 tags: ["career", "freelancing", "startups"]
 description: "What are most common careers you can have as a programmer? Learn more in this article."
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/youhere.jpeg"
