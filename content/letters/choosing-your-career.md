@@ -3,7 +3,6 @@ title: "How to find your best career fit"
 date: 2018-08-25T08:00:00+05:30
 categories: ["career"]
 tags: ["career", "startups"]
-description: "The ultimate guide to how to get start with competitive programming and building your algorithmic skills"
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/youhere.jpeg"
 unsplash: "https://unsplash.com/photos/3To9V42K0Ag"
 keywords: "career,advice,life,work,impact"
