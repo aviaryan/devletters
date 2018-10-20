@@ -9,7 +9,9 @@
         <img alt="Brand" 
           src="{{ if or (.IsHome) (.Params.image) }}{{ .Site.Data.defaults.icons.brand }}{{ else }}{{ .Site.Data.defaults.icons.brand }}{{ end }}">
         {{- end }}
-        <div class="title is-4" {{ if or (.IsHome) (.Params.image) }}style="color: #fff;"{{ end }}>&nbsp;{{ .Site.Title }}</div>
+        <div class="title is-4" {{ if or (.IsHome) (.Params.image) }}style="color: #fff;"{{ end }}>
+          &nbsp;{{ if eq .Type "ama" }}AMAs{{ else }}{{ .Site.Title }}{{ end }}
+        </div>
       </a>
 
       <!-- Using a <label /> here -->

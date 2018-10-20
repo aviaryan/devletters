@@ -1,8 +1,8 @@
 ---
 title: "AMA #2 starts now!"
 date: 2018-10-19T20:00:00+05:30
-draft: true
 amano: 2
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/asking.jpeg"
 ---
 
 Hi,

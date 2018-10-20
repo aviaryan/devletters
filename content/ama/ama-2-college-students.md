@@ -1,8 +1,9 @@
 ---
 title: "AMA #2: College Students and Junior Developers"
 date: 2018-10-18T14:00:00+05:30
-draft: true
 amano: 2
+image: "https://s3.us-east-2.amazonaws.com/devletters/covers/asking.jpeg"
+unsplash: "https://unsplash.com/photos/_w8m-1jbCVs"
 ---
 
 Hi folks,
