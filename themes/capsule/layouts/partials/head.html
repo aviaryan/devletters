@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-  <title>{{ .Title }}</title>
+  <title>{{ replace .Title "Amas" "AMAs" }}</title>
   <meta name="author" content="{{ .Site.Author.name }}" />
   <meta name="google-site-verification" content="3H9w9IJjMgjA2ua62wb0TTLVECH43YfxgXQjtctgBuI" />
 
@@ -54,7 +54,7 @@
   <!-- more meta https://search.google.com/structured-data/testing-tool/u/0/ -->
 
   <!-- OpenGraph data -->
-  <meta property="og:title" content="{{ .Title }}"/>
+  <meta property="og:title" content='{{ replace .Title "Amas" "AMAs" }}'/>
   <meta property="og:type"
         content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
   <meta property="og:url" content="{{ .Permalink }}"/>
@@ -107,7 +107,7 @@
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site"
         content="{{ with .Site.Social.twitter }}@{{.}}{{ end }}"/>
-  <meta name="twitter:title" content="{{ .Title }}"/>
+  <meta name="twitter:title" content='{{ replace .Title "Amas" "AMAs" }}'/>
   <meta name="twitter:description"
         content="{{ with .Description }}{{ . -}}
                  {{ else -}}
