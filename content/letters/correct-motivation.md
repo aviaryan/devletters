@@ -1,6 +1,6 @@
 ---
 title: "The correct motivation"
-date: 2018-10-27T20:00:00+05:30
+date: 2018-10-28T08:00:00+05:30
 categories: ["general advice"]
 tags: ["general advice", "philosphy"]
 draft: true
