@@ -3,7 +3,6 @@ title: "The correct motivation"
 date: 2018-10-28T08:00:00+05:30
 categories: ["general advice"]
 tags: ["general advice", "philosphy"]
-draft: true
 image: "https://s3.us-east-2.amazonaws.com/devletters/covers/motivate.jpg"
 unsplash: "https://unsplash.com/photos/O_CLjxjzN3M"
 keywords: "motivation,life,advice"
