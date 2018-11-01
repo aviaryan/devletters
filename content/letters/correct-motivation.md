@@ -1,5 +1,5 @@
 ---
-title: "The correct motivation"
+title: "The various levels of motivation"
 date: 2018-10-28T08:00:00+05:30
 categories: ["general advice"]
 tags: ["general advice", "philosphy"]
