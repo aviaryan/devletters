@@ -1,5 +1,7 @@
 See the package.json for help
 
+Deployed on Surge. Check `deploy` script.
+
 ### Help
 
 https://gitlab.com/sudorook/capsule-demo
