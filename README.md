@@ -1,15 +1,34 @@
-See the package.json for help
+# DevLetters (dead)
 
-Deployed on Surge. Check `deploy` script.
+devletters.com is now https://aviaryan.com/letters.
 
-### Help
+Built (hacked) using Hugo.
+
+### Running
+
+```sh
+npm run serve
+```
+
+### Building
+
+```sh
+npm run build
+```
+
+### Deploy
+
+Deployed on Surge.
+
+```sh
+npm run deploy
+```
+
+### Theme used
 
 https://gitlab.com/sudorook/capsule-demo
 
+### Meta Tags Testing
 
-
-### Meta
-
-OG check: https://cards-dev.twitter.com/validator
-
+Open Graph check: https://cards-dev.twitter.com/validator
 Structured Text: https://search.google.com/structured-data/testing-tool/u/0/
